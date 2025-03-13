@@ -18,7 +18,7 @@ using System;
 
 namespace IdentityServer3.AccessTokenValidation
 {
-    internal static class EpochTimeExtensions
+    public static class EpochTimeExtensions
     {
         /// <summary>
         /// Converts the given date value to epoch time.

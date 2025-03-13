@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-using IdentityModel.Extensions;
+using IdentityModel;
 using Microsoft.Owin.Logging;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Infrastructure;
